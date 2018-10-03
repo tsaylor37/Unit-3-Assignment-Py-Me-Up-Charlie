@@ -1,0 +1,7 @@
+Financial Analysis
+----------------------------
+Total Months: {total_months}
+Total: ${total_revenue}
+Average Change: ${(avg_rev_change)}
+Greatest Increase in Revenue: {greatest_incr[0]} (${greatest_incr[1]})
+Greatest Decrease in Revenue: {greatest_decr[0]} (${greatest_decr[1]})
